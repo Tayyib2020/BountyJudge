@@ -1,0 +1,43 @@
+# Python environments
+.venv/
+venv/
+.env
+.env.*
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# GenLayer caches
+*.tmp
+
+# Node.js
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+# Additional development directories
+.genlayer/
+.tools/
+work/
+outputs/
+
+# Development environments and caches
+.cache/
+.venv/
+venv/
+.genlayer/
+.tools/
+work/
+outputs/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Secrets
+.env
+.env.*

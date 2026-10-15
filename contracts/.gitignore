@@ -1,0 +1,28 @@
+# Python environments
+.venv/
+venv/
+.env
+.env.*
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# GenLayer caches
+.cache/
+.genvm/
+gltest-direct/
+
+# Generated temporary files
+*.log
+*.tmp
+
+# Node.js
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
